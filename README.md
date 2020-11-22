@@ -3,3 +3,4 @@
 Resources:
 https://www.w3schools.com/js/js_array_sort.asp
 https://www.w3schools.com/js/js_arrays.asp
+https://coderscat.com/how-to-randomize-shuffle-a-javascript-array/
